@@ -1,0 +1,21 @@
+Centrifuge	0.346153	F-measure	A	Without sequence reconstruction	A
+Centrifuge	0.45	Recall	B	Without sequence reconstruction	A
+Centrifuge	0.28125	Precision	C	Without sequence reconstruction	A
+Kraken2	0.542372881	F-measure	A	Without sequence reconstruction	A
+Kraken2	0.8	Recall	B	Without sequence reconstruction	A
+Kraken2	0.41025641	Precision	C	Without sequence reconstruction	A
+METAXA2	0.8	F-measure	A	Without sequence reconstruction	A
+METAXA2	1	Recall	B	Without sequence reconstruction	A
+METAXA2	0.666666667	Precision	C	Without sequence reconstruction	A
+phyloFlash (BE)	0.666666667	F-measure	A	With sequence reconstruction	B
+phyloFlash (BE)	0.5	Recall	B	With sequence reconstruction	B
+phyloFlash (BE)	1	Precision	C	With sequence reconstruction	B
+phyloFlash (BS)	0.75	F-measure	A	With sequence reconstruction	B
+phyloFlash (BS)	0.6	Recall	B	With sequence reconstruction	B
+phyloFlash (BS)	1	Precision	C	With sequence reconstruction	B
+phyloFlash (SE)	0.666666667	F-measure	A	With sequence reconstruction	B
+phyloFlash (SE)	0.5	Recall	B	With sequence reconstruction	B
+phyloFlash (SE)	1	Precision	C	With sequence reconstruction	B
+RiboTaxa	1	F-measure	A	With sequence reconstruction	B
+RiboTaxa	1	Recall	B	With sequence reconstruction	B
+RiboTaxa	1	Precision	C	With sequence reconstruction	B

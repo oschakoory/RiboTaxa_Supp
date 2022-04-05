@@ -1,0 +1,5 @@
+"Tools"	"Data"	"Purpose"	"Time"	"Tool"
+"        Centrifuge"	"2.10"	"Database building"	"2min10s"	"Centrifuge"
+"        Kraken2"	"1.55"	"Database building"	"1min55s"	"Kraken2"
+"        RiboTaxa"	127	"Database building"	"2hr7min"	"RiboTaxa"
+"        phyloFlash"	140	"Database building"	"2hr20min"	"phyloFlash"

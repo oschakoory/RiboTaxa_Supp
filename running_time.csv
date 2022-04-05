@@ -1,0 +1,8 @@
+"Tools","Data","Purpose","Time","Tool"
+"Centrifuge","12.52","Running tools on raw metagenomic dataset","12min52s","Centrifuge"
+"Kraken2","6.22","Running tools on raw metagenomic dataset","6min22s","Kraken2"
+"RiboTaxa","18.3","Running tools on raw metagenomic dataset","18min3s","RiboTaxa"
+"phyloFlash (SE)","37.53","Running tools on raw metagenomic dataset","37min53s","phyloFlash (SE)"
+"METAXA2",105,"Running tools on raw metagenomic dataset","1hr45min","METAXA2"
+"phyloFlash (BS)","4.46","Running tools on raw metagenomic dataset","4min46s","phyloFlash (BS)"
+"phyloFlash (BE)","6.23","Running tools on raw metagenomic dataset","6min23s","phyloFlash (BE)"
